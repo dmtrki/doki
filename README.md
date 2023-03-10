@@ -1,0 +1,6 @@
+- https://vitepress.vuejs.org/guide/markdown#syntax-highlighting-in-code-blocks
+- https://vitepress.vuejs.org/guide/customization-intro
+- https://www.npmjs.com/package/vitepress-tags
+- https://www.npmjs.com/package/linked-docs
+- https://www.npmjs.com/package/vitepress-plugin-sandpack
+- https://www.npmjs.com/package/vitepress-plugin-autobar
