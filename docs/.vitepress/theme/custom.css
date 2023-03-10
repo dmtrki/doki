@@ -1,0 +1,22 @@
+body {
+    color: #0C111A;
+}
+
+blockquote > p > img {
+    display: inline-block;
+    margin: auto 5px;
+    max-height: 1em;
+}
+
+h1 + blockquote, h2 + blockquote, h3 + blockquote {
+    opacity: 1;
+    margin: -17px 0 13px 0;
+    border-left: 0;
+    padding: 0 5px;
+    border-bottom: 1px dashed #ccc;
+    border-left: 0;
+    display: block;
+    font-family: monospace;
+    letter-spacing: 1px;
+}
+

@@ -1,0 +1,52 @@
+:root {
+  --my-outstroke: #dbe1ef;
+
+  --color-text-header: #333333;
+
+  --color-mainLight: #dbe1ef;
+  --color-main: #dbe1ef;
+
+  --color-alertDark: #672e3e;
+}
+
+mark {
+  padding: 3px;
+  background-color: rgb(9 142 123);
+  color: #fff;
+  border-radius: 3px;
+}
+
+$borderRadiusXL: 21px;
+$borderRadiusL: 13px;
+$borderRadiusM: 8px;
+$borderRadiusS: 5px;
+
+$cBase: #0C111A;
+$bgPrimary: #AEC0FF;
+$bgPrimaryDark: #0F0327;
+$bgCode: #292b30;
+
+$cPrimary: #1800AD;
+$cPrimaryLighter: #001AFF;
+
+
+$cInfo: #0047cc;
+$cInfoLight: #b4ceff;
+$cInfoDark: #12235a;
+$cSuccess: #4dedbf;
+$cSuccessLight: #a3ffe1;
+$cSuccessDark: #00986f;
+$cAccent: #6f4ded;
+$cAccentLight: #b3a3ff;
+$cAccentDark: #3b2e67;
+$cWarn: #ffcb00;
+$cWarnLight: #ffe8a3;
+$cWarnDark: #85015c;
+$cAlert: #ed4d7b;
+$cAlertLight: #ffa3c1;
+
+
+$padXL: 33px;
+$padL: 21px;
+$padM: 13px;
+$padS: 8px;
