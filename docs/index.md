@@ -9,8 +9,8 @@
   - [TypeScript](./js/ts/index.md) — статическая типизация JS
     - [Vue 3](./js/vue3/index.md)
     - [Rx](./js/rx/index.md)
-  - Kotlin
-    - JWM
+  - JVM
+    - Kotlin
 ## 🕸️ Сети
 ## 🚟 БД
 - - SQL
