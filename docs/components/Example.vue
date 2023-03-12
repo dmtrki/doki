@@ -19,7 +19,7 @@ const props = defineProps<{
  .example {
   background-color: $bgPrimary;
   border-radius: $borderRadiusL;
-  padding: $padL;
+  padding: $padS $padL;
  }
 </style>
 <style lang="scss">

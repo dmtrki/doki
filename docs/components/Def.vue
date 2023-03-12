@@ -15,9 +15,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-}
-.def p {
-    padding: 0;
-    margin: 0;
+    margin: 1.3rem auto;
+
+    p {
+        padding: 0;
+        margin: 0;
+    }
 }
 </style>
